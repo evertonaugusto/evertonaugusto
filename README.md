@@ -2,9 +2,17 @@
 <h2 align="left">Gênio, bilionário, "playboy" e filantropo. Esse aí é o Tony Stark. Eu sou o <i>Everton Augusto</i>!
  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h2>
 
-<p align="justify">Técnico em Informática pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte — IFRN, graduando em Análise e Desenvolvimento de Software no IFRN —  Campus Nova Cruz, que fica localizado no interior do Rio Grande do Norte. Atualmente trabalho como Coordenador de Sistemas de Informática na Câmara Municipal de Nova Cruz, onde desenvolvo atividades relacionadas à manutenção de sites, manutenção preventiva e corretiva em computadores, monitoramento de rede, etc. Tive a experiência profissional de ser tutor de informática básica para adolescentes e idosos através da Prefeitura Municipal de Nova Cruz, como também prestei serviço  de suporte técnico ao Gabinete Civil do mesmo órgão. Ademais, participei como bolsista de pesquisa do Conselho Nacional de Desenvolvimento Científico e Tecnológico - CNPq.
+<p align="justify">Técnico em Informática pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte — IFRN, graduando em Análise e Desenvolvimento de Software no IFRN —  Campus Nova Cruz, que fica localizado no interior do Rio Grande do Norte. 
+ 
+<p align="justify">No momento trabalho como Coordenador de Sistemas de Informática na Câmara Municipal de Nova Cruz, onde desenvolvo atividades relacionadas à manutenção de sites, manutenção preventiva e corretiva em computadores, monitoramento de rede etc.
+ 
+Tive a experiência profissional de ser tutor de informática básica para adolescentes e idosos através da Prefeitura Municipal de Nova Cruz, como também prestei serviço  de suporte técnico ao Gabinete Civil do mesmo órgão. 
+ 
+Ademais, participei como bolsista de pesquisa do Conselho Nacional de Desenvolvimento Científico e Tecnológico - CNPq.
 
-Meu primeiro contato com programação foi no curso técnico onde adquiri conhecimento em linguagens como <i>Java</i>, <i>JavaScript</i>, <i>PHP</i>, etc. Atualmente venho me especializando na programação Web, com foco em <i>front-end</i>.</p></br>
+Meu primeiro contato com programação foi no curso técnico onde adquiri conhecimento em linguagens como <i>Java</i>, <i>JavaScript</i>, <i>PHP</i>, etc. 
+ 
+Atualmente venho me especializando na programação Web, com foco em <i>front-end</i>.</p></br>
 
 <div align="center">
   <p> 📈 GitHub Análise GitHub </p>
